@@ -1,4 +1,10 @@
 body {
+<<<<<<< HEAD
 color: red;
 font-size: 20px;
+=======
+color: yellow;
+font-size: 20px;
+background: "teste pra stash"
+>>>>>>> feature/mudancas
 }
